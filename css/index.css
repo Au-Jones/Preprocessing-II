@@ -1,3 +1,16 @@
+@media (max-width: 500px) {
+  .container {
+    display: flex;
+    align-content: center;
+  }
+  header {
+    justify-content: center;
+  }
+  .container-home {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
