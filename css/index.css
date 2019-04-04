@@ -247,3 +247,11 @@ header {
 header h2 {
   margin-top: 20px;
 }
+.btn {
+  background-color: darkcyan;
+  color: white;
+  border-radius: 10px;
+  font-size: 20px;
+  justify-content: center;
+  display: flex;
+}
